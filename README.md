@@ -1,1 +1,1 @@
-# Codsoft2
+In this Student Grade Calculator the user will input the subjects and marks obtained in each subject.It will calculate the total marks,Average marks and grades based on Average marksand this Student grade calculator will calculate it easily.
